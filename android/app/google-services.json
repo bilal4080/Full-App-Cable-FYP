@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493321090983",
+    "project_id": "cabel-op",
+    "storage_bucket": "cabel-op.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493321090983:android:18695ea0e3f3f5acdfe882",
+        "android_client_info": {
+          "package_name": "com.cabelApp.andriodApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQwzWKZzjDVJ-qHstQ40re-s49aYdAJgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493321090983:android:566870d7f013cd06dfe882",
+        "android_client_info": {
+          "package_name": "com.flutter_cable_app.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQwzWKZzjDVJ-qHstQ40re-s49aYdAJgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
